@@ -30,7 +30,7 @@ pip でも easy_install でも buildout でもなんでもいいので `Tinkerer
 
 こんなの。
 
-まあ sphinx のプロジェクトみたいなもんですから、見慣れてますよね。
+まあ sphinx のプロジェクトですから見慣れてますよね。
 
 conf.pyをいじる
 ---------------
@@ -62,7 +62,7 @@ conf.py を見るといじれと書いてあるのでいじりましょう。
 とりあえずビルドしてみる
 ------------------------
 
-ブログを作ったディレクトリで `tinker -b` するとブログが作られます。
+ブログを作ったディレクトリで `tinker -b` するとブログがビルドされます。
 
 同じディレクトリに `index.html` があるので、こいつをブラウザで開くとブログっぽいものが表示されます。
 
@@ -99,7 +99,7 @@ conf.py にある
 
 ってところを書き換えます。
 
-デフォルトtではこんなテーマがあるようです。
+デフォルトではこんなテーマがあるようです。
 
 - modern
 - boilerplate
@@ -159,6 +159,15 @@ conf.py にある
 
 まあ HTML を書くだけですが、 `tinker/themes/tinkerbase/recent.html <https://bitbucket.org/vladris/tinkerer/src/default/tinkerer/themes/tinkerbase/recent.html?at=default>`_ なんかからコピーしてきて書き換えるとそれっぽくなるんじゃないかな。
 
+そんで `conf.py` の `html_sidebars` に値を追加して出来上がり。
+
+.. code-block:: python
+
+   # Add templates to be rendered in sidebar here
+   html_sidebars = {
+       "**": ["author.html", "recent.html", "searchbox.html"]
+   }
+
 
 ボタンとか追加
 ~~~~~~~~~~~~~~
@@ -173,6 +182,13 @@ JavaScript が有効じゃないとまともに見られないサイトは糞だ
 
 ウダウダ言うよりソース見たほうがはやいと思うので `ソース <https://bitbucket.org/shomah4a/blog/src/master/themes/custom_minimal>`_ 見てください。
 
+
+まとめ
+------
+
+Tinkerer というか Sphinx 最高ですね。
+
+Sphinx の拡張使いまくってブログ書けるのマジ便利。
 
 
 .. author:: default

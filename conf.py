@@ -20,7 +20,7 @@ author = '@shomah4a'
 copyright = '2013, ' + author
 
 # Change this to your blog root URL (required for RSS feed)
-website = 'http://shomah4a.bitbucket.org/blog/html/'
+website = 'http://blog.shomah4a.net/'
 
 # **************************************************************
 # More tweaks you can do
@@ -33,7 +33,14 @@ disqus_shortname = None
 html_favicon = 'tinkerer.ico'
 
 # Pick another Tinkerer theme or use your own
+html_theme = "modern"
+html_theme = "boilerplate"
+html_theme = "minimal"
+html_theme = "responsive"
+html_theme = "tinkerbase"
 html_theme = "modern5"
+
+html_theme = "custom_minimal"
 
 # Theme-specific options, see docs
 html_theme_options = { }
@@ -61,7 +68,7 @@ templates_path = ['_templates']
 html_static_path = ['_static', tinkerer.paths.static]
 
 # Add other theme paths here
-html_theme_path = [tinkerer.paths.themes]
+html_theme_path = [tinkerer.paths.themes, 'themes']
 
 # Add file patterns to exclude from build
 exclude_patterns = ["drafts/*"]

@@ -18,9 +18,12 @@
     {{ tinkerer_relbar() }}
     {%- for metadata in posts %}
         {{ timestamp(metadata.formatted_date) }}
+
+        {% set page_url = pathto(metadata.link) %}
+
         {% block buttons %}
         <div class="buttons" style="float:right">
-          <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ metadata.link }}" data-text="{{ metadata.link }}">Tweet</a>
+          <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page_url }}" data-text="{{ page_url }}">Tweet</a>
         </div>
         {% endblock %}
         {{ metadata.body }}

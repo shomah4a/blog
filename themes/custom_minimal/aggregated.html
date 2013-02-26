@@ -21,7 +21,7 @@
         {% set page_url = pathto(metadata.link) %}
 
         <div class="buttons" style="float:right">
-          <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page_url }}" data-text="{{ page_url }}" data-via="shomah4a">Tweet</a>
+          <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page_url }}" data-via="shomah4a">Tweet</a>
         </div>
         {{ metadata.body }}
         {{ post_meta(metadata, metadata.comment_count) }}
@@ -38,7 +38,6 @@
       {
         var item = items[idx];
         item.setAttribute('data-url', document.baseURI + item.getAttribute('data-url'));
-        item.setAttribute('data-text', document.baseURI + item.getAttribute('data-text'));
       }
 
     --></script>

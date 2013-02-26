@@ -13,7 +13,7 @@
 
 {% block body %}
     {{ tinkerer_relbar() }}
-    {{ timestamp(metadata.formatted_date) }}
+    <div style="margin-bottom: 1em">
     {% block buttons %}
     <div class="buttons" style="float:right">
       <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
@@ -33,6 +33,8 @@
 
     <script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
     {% endblock %}
+    {{ timestamp(metadata.formatted_date) }}
+    </div>
     {{ link }}
     {{ body }}
     {{ post_meta(metadata) }}

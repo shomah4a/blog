@@ -75,7 +75,7 @@ exclude_patterns = ["drafts/*"]
 
 # Add templates to be rendered in sidebar here
 html_sidebars = {
-    "**": ["recent.html", "searchbox.html"]
+    "**": ["author.html", "recent.html", "searchbox.html"]
 }
 
 # **************************************************************

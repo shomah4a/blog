@@ -40,7 +40,7 @@
       for (var idx=0; idx<items.length; idx++)
       {
         var item = items[idx];
-        item.setAttribute('data-url', document.baseURI + item.getAttribute('data-url'));
+        item.setAttribute('data-url', window.location.origin + '/' + item.getAttribute('data-url'));
       }
 
     --></script>

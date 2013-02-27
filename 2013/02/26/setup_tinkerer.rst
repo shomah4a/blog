@@ -14,10 +14,10 @@ pip でも easy_install でも buildout でもなんでもいいので `Tinkerer
 
 .. code-block:: sh
 
-   blog$ tinker -s
+   $ tinker -s
    Your new blog is almost ready!
    You just need to edit a couple of lines in conf.py
-   blog$ tree
+   $ tree
 
    .
    ├── _static
@@ -76,7 +76,7 @@ conf.py を見るといじれと書いてあるのでいじりましょう。
 
 .. code-block:: sh
 
-   blog$ tinker -p test
+   $ tinker -p test
    New post created as '/tmp/aaaa/2013/02/26/test.rst'
 
 なんか rst ファイルが作られたので、これを編集して `tinker -b` するとブログにエントリが追加されるってわけです。

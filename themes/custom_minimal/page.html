@@ -13,13 +13,14 @@
 
 {% block body %}
     {{ tinkerer_relbar() }}
-    <div class="sectionhead" style="margin-bottom: 1em">
+    <div class="section_head" style="margin-bottom: 1em">
     {% block buttons %}
     <div class="buttons" style="float:right">
       <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
       <a href="http://b.hatena.ne.jp/entry/http://google.com/" class="hatena-bookmark-button" data-hatena-bookmark-title="{{ title }} - {{ project }}" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
       <span class="hatenastar" />
+      <a style="display:none" class="parmalink_for_star">a</a>
     </div>
 
 
@@ -31,8 +32,14 @@
               e.setAttribute('href', 'http://b.hatena.ne.jp/entry/' + window.location.host + window.location.pathname);
           });
     --></script>
-
     <script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script type="text/javascript"><!--
+      $('a[class="parmalink_for_star"]').toArray().map(
+          function (e)
+          {
+              e.setAttribute('href', window.location.origin + window.location.pathname);
+          });
+    --></script>
     {% endblock %}
     {{ timestamp(metadata.formatted_date) }}
     </div>

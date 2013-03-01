@@ -8,13 +8,15 @@
     <script type="text/javascript">
       Hatena.Star.Token = '9db4cf1b05d315b16218f1498cd747641271ee64';
 
-      Hatena.Star.SiteConfig = {
-        entryNodes: {
-          'div.body': {
+      var section = {
             uri: 'div.section_head div.buttons a.parmalink_for_star',
             title: 'div.section h1',
             container: 'div.section_head div.buttons span.hatenastar'
-          }
+          };
+
+      Hatena.Star.SiteConfig = {
+        entryNodes: {
+          'div.body': section,
         }
       };
 

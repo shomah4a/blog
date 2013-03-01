@@ -35,24 +35,20 @@
         <a href="{{ pathto('archive') }}">{{ archivechar }}{{ archive_title }}{{ archivechar }}</a>
     </div>
     <script type="text/javascript"><!--
-      var items = document.getElementsByClassName('twitter-share-button');
-
-      for (var idx=0; idx<items.length; idx++)
-      {
-        var item = items[idx];
-        item.setAttribute('data-url', window.location.origin + '/' + item.getAttribute('data-url'));
-      }
+      $('a[class="twitter-share-button"]').map(
+          function (e)
+          {
+              e.setAttribute('data-url', window.location.origin + '/' + e.getAttribute('data-url'));
+          });
 
     --></script>
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
     <script type="text/javascript"><!--
-      var items = document.getElementsByClassName('hatena-bookmark-button');
-
-      for (var idx=0; idx<items.length; idx++)
-      {
-        var item = items[idx];
-        item.setAttribute('href', 'http://b.hatena.ne.jp/entry/' + window.location.host + '/' + item.getAttribute('path'));
-      }
+      $('a[class="hatena-bookmark-button"]').map(
+          function (e)
+          {
+              e.setAttribute('href', 'http://b.hatena.ne.jp/entry/' + window.location.host + '/' + e.getAttribute('path'));
+          });
     --></script>
     <script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
 

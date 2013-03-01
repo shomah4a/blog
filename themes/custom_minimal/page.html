@@ -22,7 +22,7 @@
     </div>
 
     <script type="text/javascript"><!--
-      $('a[class="hatena-bookmark-button"]').map(
+      $('a[class="hatena-bookmark-button"]').toArray().map(
           function (e)
           {
               e.setAttribute('href', 'http://b.hatena.ne.jp/entry/' + window.location.host + window.location.pathname);

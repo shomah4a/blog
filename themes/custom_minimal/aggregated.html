@@ -19,13 +19,15 @@
         {% set page_url = pathto(metadata.link) %}
 
         <div class="section_head" style="margin-bottom: 1em">
-          <div class="buttons" style="float:right">
+          <div style="float:left; margin-right:2em">
+            {{ timestamp(metadata.formatted_date) }}
+          </div>
+          <div class="buttons">
             <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page_url }}" data-text="{{ metadata.title }} - {{ project }}">Tweet</a>
             <a path="{{ page_url }}" class="hatena-bookmark-button" data-hatena-bookmark-title="{{ metadata.title }} - {{ project }}" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
             <span class="hatenastar"> </span>
             <a style="display:none" class="parmalink_for_star" path="{{ page_url }}">a</a>
           </div>
-        {{ timestamp(metadata.formatted_date) }}
         </div>
 
         {{ metadata.body }}

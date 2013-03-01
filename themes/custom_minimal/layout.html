@@ -1,0 +1,22 @@
+
+
+{% extends "minimal/layout.html" %}
+
+
+{% block extrahead %}
+    <script type="text/javascript" src="http://s.hatena.ne.jp/js/HatenaStar.js"></script>
+    <script type="text/javascript">
+      Hatena.Star.Token = '9db4cf1b05d315b16218f1498cd747641271ee64';
+
+      Hatena.Star.SiteConfig = {
+        entryNodes: {
+          'div.body': {
+            uri: 'div.section h1 a',
+            title: 'div.section h1',
+            container: 'div.sectionhead div.buttons span.hatenastar '
+          }
+        }
+      };
+
+    </script>
+{% endblock %}

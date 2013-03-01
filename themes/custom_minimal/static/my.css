@@ -1,0 +1,14 @@
+@import url("minimal.css");
+
+
+div.section_head
+{
+  margin-bottom: 1em;
+}
+
+div.timestamp_layout
+{
+  float:left;
+  margin-right:2em;
+}
+

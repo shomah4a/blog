@@ -18,8 +18,8 @@
     {%- for metadata in posts %}
         {% set page_url = pathto(metadata.link) %}
 
-        <div class="section_head" style="margin-bottom: 1em">
-          <div style="float:left; margin-right:2em">
+        <div class="section_head">
+          <div class="timestamp_layout">
             {{ timestamp(metadata.formatted_date) }}
           </div>
           <div class="buttons">

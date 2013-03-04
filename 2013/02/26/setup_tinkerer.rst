@@ -203,5 +203,5 @@ Sphinx の拡張使いまくってブログ書けるのマジ便利。
 
 .. author:: default
 .. categories:: none
-.. tags:: sphinx, tinkerer
+.. tags:: Sphinx, Tinkerer
 .. comments::

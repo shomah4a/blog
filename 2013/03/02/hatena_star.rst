@@ -151,5 +151,5 @@ layout.html には extrahead というブロックが定義されていて、こ
 
 .. author:: default
 .. categories:: none
-.. tags:: tinkerer, sphinx, hatena
+.. tags:: Tinkerer, Sphinx
 .. comments::

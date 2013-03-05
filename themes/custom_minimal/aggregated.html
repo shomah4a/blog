@@ -44,7 +44,7 @@
       $('a[class="twitter-share-button"]').toArray().forEach(
           function (e)
           {
-              e.setAttribute('data-url', window.location.origin + '/' + e.getAttribute('data-url'));
+              e.setAttribute('data-url', 'http://' + window.location.host + '/' + e.getAttribute('data-url'));
           });
 
     --></script>
@@ -60,7 +60,7 @@
       $('a[class="parmalink_for_star"]').toArray().forEach(
           function (e)
           {
-              e.setAttribute('href', window.location.origin + '/' + e.getAttribute('path'));
+              e.setAttribute('href', 'http://' + window.location.host + '/' + e.getAttribute('path'));
           });
      --></script>
     <script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>

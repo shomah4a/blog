@@ -40,7 +40,7 @@
       $('a[class="parmalink_for_star"]').toArray().map(
           function (e)
           {
-              e.setAttribute('href', window.location.origin + window.location.pathname);
+              e.setAttribute('href', 'http://' + window.location.host + window.location.pathname);
           });
     --></script>
     {% endblock %}

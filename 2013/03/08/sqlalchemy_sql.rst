@@ -155,7 +155,7 @@ select
    tbl = tables.Type.__table__
 
    # 等価な SQL
-   # selsct name, fqname from types where name = 'List';
+   # select name, fqname from types where name = 'List';
    query = sql.select([tbl.c.name, tbl.c.fqname], tbl.c.name == 'List', tbl)
 
    with sesion.Session() as sess:

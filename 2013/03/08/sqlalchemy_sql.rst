@@ -93,7 +93,7 @@ sakuya で使ったテーブル定義は以下のようなもの。
 セッション
 ----------
 
-セッションは大体 `sqlalchemy.orm.sessionmaker` で作ったセッションを使って作ることが多いので、以下のような感じで `Session` クラスとか作って対応してます。
+セッションは大体 `sqlalchemy.orm.sessionmaker <http://docs.sqlalchemy.org/en/latest/orm/session.html#adding-additional-configuration-to-an-existing-sessionmaker>`_ で作ったセッションを使って作ることが多いので、以下のような感じで `Session` クラスとか作って対応してます。
 これ標準でやってくれそうだけど調べてない。
 
 .. code-block:: python
@@ -145,7 +145,7 @@ insert
 まあ見たまんまですね。
 
 
-selsct
+select
 ------
 
 例えばさっき作った `List` を検索するならこんな感じ。
@@ -254,7 +254,7 @@ join
 
 色々やるときは SQL 生で書くよりはずっと楽なのでいいですよね。
 
-
+で、短い時は `sqlalchemy.sql.expression.text <http://docs.sqlalchemy.org/en/latest/core/expression_api.html#sqlalchemy.sql.expression.text>`_ を使うとプレースホルダで置換できるのでオヌヌメ。
 
 
 .. author:: default

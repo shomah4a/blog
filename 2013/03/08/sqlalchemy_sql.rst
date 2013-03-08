@@ -1,7 +1,7 @@
 SQL 表現言語のあれこれ
 ======================
 
-`@hirokiky <https://twitter.com/hirokiky>`_ が SQLAlchemy の `SQL 表現言語 <http://omake.accense.com/static/doc-ja/sqlalchemy/sqlexpression.html>`_ (っていうらしいことを初めて知った)を使ってなんかやっていて、ちょっと書いてみたくなったので書きます。
+`@hirokiky <https://twitter.com/hirokiky>`_ が SQLAlchemy の `SQL 表現言語 <http://omake.accense.com/static/doc-ja/sqlalchemy/sqlexpression.html>`_ (っていうらしいことを初めて知った)を使って `なんかやっていて <http://blog.hirokiky.org/2013/03/07/aggregation_with_sqlalchemy_sqlexpression.html>`_ 、ちょっと書いてみたくなったので書きます。
 
 SQL 表現言語はオブジェクトの演算子オーバロードを駆使して SQL を生成するためのライブラリです。
 なので ORM よりは若干レイヤが低い感じ。

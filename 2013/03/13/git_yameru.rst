@@ -1,7 +1,7 @@
 git-やめる を実装しました
 =========================
 
-ついったー上で「git やめたい」とか「git つらい」という話が出ていたので、 `git-やめる <https://gist.github.com/shomah4a/5149412>`_ というコマンドを実装しました。
+ついったー上で「git やめたい」とか「gitflow つらい」という話が出ていたので、 `git-やめる <https://gist.github.com/shomah4a/5149412>`_ というコマンドを実装しました。
 
 https://twitter.com/voluntas/status/311697168497000449
 

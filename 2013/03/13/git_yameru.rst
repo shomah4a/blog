@@ -22,7 +22,7 @@ https://twitter.com/mizchi/status/311696358501392386
 - `gist <https://gist.github.com/shomah4a/5149412>`_ にアクセスし、 git-やめる としてパスが通った場所に保存
 - $ chmod a+x git-やめる
 - git リポジトリのある場所に移動
-- $ git-やめる
+- $ git やめる
 
 これだけです。
 

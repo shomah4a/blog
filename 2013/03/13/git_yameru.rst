@@ -28,6 +28,8 @@ https://twitter.com/mizchi/status/311696358501392386
 
 Git を窓から放り出して Mercurial 使いましょう!
 
+ちなみにこのブログは `Bitbucket <https://bitbucket.org/>`_ 上に置いた `git リポジトリ <https://bitbucket.org/shomah4a/blog>`_ で管理しています。
+
 
 .. author:: default
 .. categories:: none

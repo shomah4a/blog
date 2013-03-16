@@ -3,17 +3,15 @@ git-やめる を実装しました
 
 ついったー上で「git やめたい」とか「gitflow つらい」という話が出ていたので、 `git-やめる <https://gist.github.com/shomah4a/5149412>`_ というコマンドを実装しました。
 
-https://twitter.com/voluntas/status/311697168497000449
 
-  git 疲れや gitflow 疲れが出てきて皆が mercurial へ移行するという流れか
+.. tweet:: https://twitter.com/voluntas/status/311697168497000449
 
-https://twitter.com/IanMLewis/status/311696561488924672
 
-  git やめたい
+.. tweet:: https://twitter.com/IanMLewis/status/311696561488924672
 
-https://twitter.com/mizchi/status/311696358501392386
 
-  gitflowみんなやめたいって言ってる
+.. tweet:: https://twitter.com/mizchi/status/311696358501392386
+
 
 
 使い方

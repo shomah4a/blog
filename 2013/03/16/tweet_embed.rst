@@ -23,7 +23,7 @@ Sphinx につぶやきを埋め込んでみる
 
   .. code-block:: python
 
-     extensions = ['sphinx_tweet_embeded']
+     extensions = ['sphinx_tweet_embed']
 
 - ビルドします
 

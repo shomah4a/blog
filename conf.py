@@ -60,7 +60,7 @@ posts_per_page = 2
 extensions = ['tinkerer.ext.blog',
               'tinkerer.ext.disqus',
               'sphinxcontrib.blockdiag',
-              'sphinx_tweet_embeded']
+              'sphinx_tweet_embed']
 
 # Add other template paths here
 templates_path = ['_templates']

@@ -60,7 +60,9 @@ posts_per_page = 2
 extensions = ['tinkerer.ext.blog',
               'tinkerer.ext.disqus',
               'sphinxcontrib.blockdiag',
-              'sphinx_tweet_embed']
+              'sphinxcontrib.gist',
+              'sphinxcontrib.twitter',
+              'sphinx_amazonjp_embed']
 
 # Add other template paths here
 templates_path = ['_templates']
@@ -92,3 +94,5 @@ html_title = project
 html_use_index = False
 html_show_sourcelink = False
 html_add_permalinks = None
+
+amazonjp_affiliate_id = 'shomah4a-22'

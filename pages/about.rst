@@ -19,6 +19,7 @@ Equipments
 - `Slimblade Trackball 72327 <http://www.amazon.co.jp/gp/product/B0024AFD42/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B0024AFD42&linkCode=as2&tag=shomah4a-22>`_
 - `Wireless Trackball M570 <http://www.amazon.co.jp/gp/product/B0043XYENO/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B0043XYENO&linkCode=as2&tag=shomah4a-22>`_
 - `FIVE TEN MOCCASYM Purple <http://www.amazon.co.jp/gp/product/B0056JSN90/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B0056JSN90&linkCode=as2&tag=shomah4a-22>`_
+- `Evolv Shaman <evolv shamanpump.ocnk.net/product/1728>`_
 - `2009  Scott  Speedster S60 flat bar <http://www.bikepedia.com/QuickBike/BikeSpecs.aspx?Year=2009&Brand=Scott&Model=Speedster%20S60%20flat%20bar&Type=bike#.US4k3ofEWlg>`_
 - `CB400 SUPER FOUR HYPER VTEC SPEC2 NC39 <http://www.honda.co.jp/CB400SF/>`_
 
@@ -26,8 +27,9 @@ Equipments
 Activities
 ----------
 - `Python ボルダリング部 <http://connpass.com/series/64/>`_ Teokure Member
-- `はちよん!.py <http://connpass.com/series/48/>`_
-- `Python mini Hack-a-thon <http://connpass.com/series/14/>`_ Organizers Member
+- `はちよん!.py <http://connpass.com/series/48/>`_ Leader
+- `カンファレンスカンファレンス <http://connpass.com/series/358/>`_ Organizer
+- `Python mini Hack-a-thon <http://connpass.com/series/14/>`_ Organizer
 - `PyCon APAC 2013 <http://apac-2013.pycon.jp>`_ Vice Chair
 - `PyCon JP 2012 <http://2012.pycon.jp>`_ Spokesman
 - `PyCon JP 2011 <http://2011.pycon.jp>`_ Spokesman

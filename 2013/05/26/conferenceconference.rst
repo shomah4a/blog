@@ -18,6 +18,12 @@
 カンファレンスカンファレンスの振り返りみたいな内容を書くつもりですが、運営の私としてはカンファレンスカンファレンスの内容に触れるつもりはなく、個人的な話を書くつもりです。
 
 
+.. figure:: https://lh6.googleusercontent.com/-ywZ32-J4tlo/UZY_u_LHoaI/AAAAAAAAJMw/ZF8-zPFQQrw/w1368-h909-no/DSC03766.JPG
+   :width: 480px
+
+   パネルディスカッションの様子
+
+
 カンファレンスカンファレンスとは
 ================================
 
@@ -32,6 +38,12 @@
 
 このカンファレンスの前に RubyKaigi の :tw:`高橋さん <takahashim>` と :tw:`角谷さん <kakutani>` にカンファレンス運営に関する話を色々と聞く機会があり、「さすがに長く続いているカンファレンスは違うな」と思わされる程に色々な話を聞きました。
 それだけで対談記事みたいなものをかけそうな程なのですが、やはりこういう話は様々な人を集めてみんなで話したほうが楽しいだろうという事でこれを切っ掛けに開催に向けて色々と進め始めました。
+
+
+.. figure:: https://lh6.googleusercontent.com/-LtjNMShfnK4/UZY_vu-agTI/AAAAAAAAJNU/dml5MuY3h5g/w1368-h909-no/DSC03767.JPG
+   :width: 480px
+
+   PyCon JP 2012 副座長の :tw:`清水川先生 <shimizukawa>`
 
 
 目的
@@ -52,6 +64,11 @@
 また、Ustream の録画データも公開できるようになったらぜひご覧ください。
 
 あといつもどおり会場を回って撮りまくってた `写真 <https://plus.google.com/u/0/photos/111021918302550652188/albums/5878952072174492497>`_ もありますよ。
+
+.. figure:: https://lh3.googleusercontent.com/-VlIBhpnt3z4/UZbuaLj95_I/AAAAAAAAJFc/9du1m7MEmhQ/w1212-h909-no/P1070920.JPG
+   :width: 480px
+
+   なにかと話題な唐揚げと炭水化物
 
 
 カンファレンスカンファレンスを振り返って
@@ -74,6 +91,13 @@
 
 今回は色々な人と知り合ったし、当日も面白かったし、大変満足でした。
 今回のカンファレンスカンファレンスで得た色々なものを今後の運営に活かせればいいなーと思います(月並)
+
+
+.. figure:: https://lh5.googleusercontent.com/-3wtgQxLt_nQ/UZZBc7Iw0XI/AAAAAAAAJEs/DoRuDXc8v8k/w1368-h909-no/DSC03821.JPG
+   :width: 480px
+
+   Scala の怖い人達
+
 
 
 .. author:: default

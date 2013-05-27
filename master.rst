@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2013/05/26/conferenceconference
    2013/04/14/go_conference_2013_spring
    2013/04/03/sphinxcontrib_twitter_update
    2013/03/23/shinx_embed_series

@@ -76,6 +76,8 @@ Python で Hello, World してみるまで
 Web サイトで Python 使う場合はこれ見たほうが手っ取り早い(わかる人は)
 http://www.windowsazure.com/en-us/develop/python/tutorials/web-sites-configuration/
 
+django は `これ <http://www.windowsazure.com/en-us/develop/python/tutorials/web-sites-with-django/>`_ らしいんだけど、 django 使う気も特になかったから問題ない。
+
 で、 WSGI で Hello, World するだけのアプリケーションを作って適当にデプロイして設定したら動いた。
 よかったねー。
 

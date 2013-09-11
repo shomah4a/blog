@@ -90,6 +90,6 @@ _codecs_jp.so がない
 
 
 .. author:: default
-.. categories:: Jython
-.. tags:: none
+.. categories:: none
+.. tags:: Jython, Python
 .. comments::

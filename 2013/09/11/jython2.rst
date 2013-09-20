@@ -90,7 +90,7 @@ KeyboardInterrupt が受け取れない
 
 ``KeyboardInterrupt`` が発生せず、 JVM ごと落ちます。
 
-この件は `issue <http://bugs.jython.org/issue1313>`_ が上がっているようです。
+この件は `issue <http://bugs.jython.org/issue1313>`__ が上がっているようです。
 
 そのうち直るんじゃないかなー。
 
@@ -101,7 +101,7 @@ Windows で C-c が効かない
 
 そもそも Windows で Jython を使うと `C-c` を押下してもなんにも反応してくれません。
 
-これも `issue <http://bugs.jython.org/issue1957>`_ が上がっています。
+これも `issue <http://bugs.jython.org/issue1957>`__ が上がっています。
 
 回避するには Jython 起動時の ``java`` コマンドのオプションに ``-Dpython.console=org.python.util.InteractiveConsole`` を追加してあげるといいようです。
 

@@ -21,7 +21,7 @@ PyCon APAC 2013 が無事終わったようです #pyconapac #pyconjp
 まあ実際マネジメントの経験なんて皆無なわけで、個別の事項では反省点いっぱいです。
 スタッフの皆さんには大変迷惑をかけていたと思います。
 
-それでもなんとか運営までこぎつけたのは優秀な人達のおかげです。大変ありがたいですね。
+それでもなんとか開催までこぎつけたのは優秀な人達のおかげです。大変ありがたいですね。
 
 
 PyCon JP/APAC の運営について
@@ -79,5 +79,5 @@ PyCon JP/APAC の運営について
 
 .. author:: default
 .. categories:: none
-.. tags:: PyCon APAC, PyCon
+.. tags:: PyCon APAC, PyCon JP, PyCon, Python
 .. comments::

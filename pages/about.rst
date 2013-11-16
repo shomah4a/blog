@@ -29,7 +29,6 @@ Activities
 - `Python ボルダリング部 <http://connpass.com/series/64/>`_ Teokure Member
 - `はちよん!.py <http://connpass.com/series/48/>`_ Leader
 - `カンファレンスカンファレンス <http://connpass.com/series/358/>`_ Organizer
-- `Python mini Hack-a-thon <http://connpass.com/series/14/>`_ Organizer
 - `PyCon APAC 2013 <http://apac-2013.pycon.jp>`_ Vice Chair
 - `PyCon JP 2012 <http://2012.pycon.jp>`_ Spokesman
 - `PyCon JP 2011 <http://2011.pycon.jp>`_ Spokesman

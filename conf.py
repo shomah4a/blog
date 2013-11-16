@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+import os
+
 import tinkerer
 import tinkerer.paths
 
@@ -71,7 +73,9 @@ templates_path = ['_templates']
 html_static_path = ['_static', tinkerer.paths.static]
 
 # Add other theme paths here
-html_theme_path = [tinkerer.paths.themes, 'themes']
+html_theme_path = [tinkerer.paths.themes, os.path.join(os.path.dirname(__file__), 'themes')]
+
+print html_theme_path
 
 # Add file patterns to exclude from build
 exclude_patterns = ["drafts/*"]

@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2013/11/28/conference_conference_retrospective_2013
    2013/11/16/conconja
    2013/10/08/jython_codecs_jp
    2013/09/30/n_things_i_learned_in_pyconapac

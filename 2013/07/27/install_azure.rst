@@ -91,6 +91,6 @@ django は `これ <http://www.windowsazure.com/en-us/develop/python/tutorials/w
 
 
 .. author:: default
-.. categories:: Azure Python
-.. tags:: none
+.. categories:: none
+.. tags:: Azure Python
 .. comments::

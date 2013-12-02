@@ -80,6 +80,6 @@ URL
 
 
 .. author:: default
-.. categories:: conconja, Conference
-.. tags:: none
+.. categories:: none
+.. tags:: conconja, Conference
 .. comments::

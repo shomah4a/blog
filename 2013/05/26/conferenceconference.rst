@@ -103,6 +103,6 @@
 
 
 .. author:: default
-.. categories:: Conference, conconja
-.. tags:: none
+.. categories:: none
+.. tags:: Conference, conconja
 .. comments::

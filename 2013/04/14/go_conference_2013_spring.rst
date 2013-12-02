@@ -54,5 +54,5 @@ goroutine と channel を使って並行処理を書くような何かだとお�
 
 .. author:: default
 .. categories:: none
-.. tags:: Go golang Event Conference
+.. tags:: Go, golang, Event, Conference
 .. comments::

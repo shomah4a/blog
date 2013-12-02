@@ -133,6 +133,6 @@ facebook では書いたけど、今回やってみての課題として
 - `言語系カンファレンス運営陣が語る、カンファレンスやイベントを開催する時に気をつけたい3つのポイント - エンジニアtype <http://engineer.typemag.jp/article/conference_knowhow>`__
 
 .. author:: default
-.. categories:: Conference, conconja
-.. tags:: none
+.. categories:: none
+.. tags:: Conference, conconja
 .. comments::

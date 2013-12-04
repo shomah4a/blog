@@ -64,6 +64,7 @@ extensions = ['tinkerer.ext.blog',
               'sphinxcontrib.blockdiag',
               'sphinxcontrib.gist',
               'sphinxcontrib.twitter',
+              'sphinxcontrib.youtube',
               'sphinx_amazonjp_embed']
 
 # Add other template paths here

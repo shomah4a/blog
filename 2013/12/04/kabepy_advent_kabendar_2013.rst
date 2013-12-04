@@ -57,6 +57,14 @@
 それでは皆様よい壁を。
 
 
+おまけ
+======
+
+このエントリを書くときに使うために `sphinxcontrib.youtube <https://pypi.python.org/pypi/sphinxcontrib.youtube/>`__ という Sphinx 拡張を作りました。
+
+便利なので使ってね!
+
+
 .. author:: default
 .. categories:: none
 .. tags:: Advent Calendar, kabepy, Advent Calendar 2013, Advent Kabendar, Bouldering

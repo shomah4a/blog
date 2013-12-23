@@ -73,5 +73,5 @@
 
 .. author:: default
 .. categories:: none
-.. tags:: Advent Calendar, kabepy, Bouldering
+.. tags:: Advent Calendar, kabepy, Advent Calendar 2013, Advent Kabendar, Bouldering
 .. comments::

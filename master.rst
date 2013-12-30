@@ -4,8 +4,8 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2013/12/30/retrospective_2013
    2013/12/23/lead_climbing_course
-   2013/12/08/sphinxcontrib_vimeo
    2013/12/04/kabepy_advent_kabendar_2013
    2013/12/03/boost_python
    2013/11/28/conference_conference_retrospective_2013

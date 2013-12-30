@@ -74,11 +74,11 @@ PyCon APAC では副座長として関わりましたが、力及ばず個人的
 
 あ、あと無茶振りして発表してくれたうえに `こんなすごいインタビュー <http://doda.jp/engineer/it/guide/001/10a.html>`__ に載っちゃった :tw:`@alpaca3` はすげーと思います。先輩としてとても誇りに思う。
 
-来年の運営には参加しないので、来年もいることを前提として色々話をしてくれていた気がする :tw:`@crazygirl_lover` にはなんか悪いことした気がします。
+来年の運営には参加しないので、来年もいることを前提として色々話をしてくれていた気がする :tw:`@crazygirl_lover` を始めとした人達にはなんか悪いことした気がします。
 
-カンファレンスカンファレンスでは :tw:`@hourin`, :tw:`@lestrrat`, :tw:`@mugeso`, :tw:`@Jxck_`, :tw:`@yukofuji`, :tw:`@takanory`, :tw:`@RicoImazu`, :tw:`@tmmkr` などの人に、同じく大反省会では :tw:`@hourin`, :tw:`@mugeso`, :tw:`@kmizu`, :tw:`@kakutani`, :tw:`@takanory`, :tw:`@RicoImazu` などの方々にお世話になりました。
+カンファレンスカンファレンスでは :tw:`@hourin`, :tw:`@lestrrat`, :tw:`@mugeso`, :tw:`@Jxck_`, :tw:`@yukofuji`, :tw:`@takanory`, :tw:`@RicoImazu`, :tw:`@tmmkr` などの人に、同じく大反省会では :tw:`@hourin`, :tw:`@mugeso`, :tw:`@kmizu`, :tw:`@kakutani`, :tw:`@takanory`, :tw:`@RicoImazu`, :tw:`@tmmkr` などの方々にお世話になりました。
 
-他にも壁手遅れ勢として :tw:`@kiris`, :tw:`@inoshiro`, :tw:`@takabow`, :tw:`@yotchang4s` など、よく登りに行った人達はこれからもｶﾍﾞｪ。
+他にも壁手遅れ勢として :tw:`@kiris`, :tw:`@inoshiro`, :tw:`@takabow`, :tw:`@yotchang4s` など、よく登りに行った人達はこれからもｶﾍﾞｪです。
 
 他にも :tw:`@tokibito`, :tw:`@benelux01`, :tw:`@tmmkr`, :tw:`@yukofuji`, :tw:`@carministela` をはじめ、色々かまってもらったとても大勢の方々にはとてもお世話になりました。これからもよろしくお願いします。
 
@@ -88,7 +88,9 @@ PyCon APAC では副座長として関わりましたが、力及ばず個人的
 
 来年の目標は「レアキャラになる」ことです。
 
-疲れたので休みます。
+疲れたので引きこもります。
+
+どっかで見かけたら声かけてください。
 
 あとは大型どうするかなあ。お金あれば買うんだけど、ないからなあ。
 でも乗りたいよなあみたいな感じですねー。

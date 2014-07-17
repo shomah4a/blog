@@ -21,15 +21,17 @@ Equipments
 - `Trackman Wheel <http://www.amazon.co.jp/gp/product/B00008B6P9/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B00008B6P9&linkCode=as2&tag=shomah4a-22>`__
 - `FIVE TEN MOCCASYM Purple <http://www.amazon.co.jp/gp/product/B0056JSN90/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B0056JSN90&linkCode=as2&tag=shomah4a-22>`__
 - `Evolv Shaman <http://pump.ocnk.net/product/1728>`__
-- `FIVE TEN SUPER MOCC <http://www.amazon.co.jp/gp/product/B00DHMMF9C/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B00DHMMF9C&linkCode=as2&tag=shomah4a-22>`__
+- `FIVE TEN SUPER MOCC US8.0 <http://www.amazon.co.jp/gp/product/B00DHMMF9C/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B00DHMMF9C&linkCode=as2&tag=shomah4a-22>`__
 - `Mad Rock Shark2.0 <http://www.madrockclimbing.com/products/product.asp?_item=100110>`__
+- `FIVE TEN SUPER MOCC US7.5 <http://www.amazon.co.jp/gp/product/B00DHMMF9C/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B00DHMMF9C&linkCode=as2&tag=shomah4a-22>`__
 - `2009  Scott  Speedster S60 flat bar <http://www.bikepedia.com/QuickBike/BikeSpecs.aspx?Year=2009&Brand=Scott&Model=Speedster%20S60%20flat%20bar&Type=bike#.US4k3ofEWlg>`__
-- `CB400 SUPER FOUR HYPER VTEC SPEC2 NC39 <http://www.honda.co.jp/CB400SF/>`__
+- `CB750 <http://www.honda.co.jp/news/2004/2040129-cb750.html>`__
 
 
 Activities
 ----------
 - `はちよん!.py <http://connpass.com/series/48/>`__ Leader
+- `pypy-cha Night <http://connpass.com/series/734/>`__ Organizer
 - `カンファレンスカンファレンス <http://connpass.com/series/358/>`__ Organizer
 - `PyCon APAC 2013 <http://apac-2013.pycon.jp>`__ Vice Chair
 - `PyCon JP 2012 <http://2012.pycon.jp>`__ Spokesman

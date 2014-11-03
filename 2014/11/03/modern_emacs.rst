@@ -72,7 +72,6 @@ init-loader は
 .. code-block:: cl
 
    (require 'init-loader)
-   (substitute-in-file-name "$HOME/.emacs.d/init-loader")
    (init-loader-load (substitute-in-file-name "$HOME/.emacs.d/init-loader")
 
 こんなふうにして ``(init-loader-load "path")`` とするとそこにある *.el を読み込んでくれる。
@@ -91,7 +90,6 @@ init-loader は
 
    (add-to-list 'after-init-hook (lambda ()
                                     (require 'init-loader)
-                                    (substitute-in-file-name "$HOME/.emacs.d/init-loader")
                                     (init-loader-load (substitute-in-file-name "$HOME/.emacs.d/init-loader"))
                                     ))
 

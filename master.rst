@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2014/11/04/perfect_python_ebook
    2014/11/03/modern_emacs
    2013/12/30/retrospective_2013
    2013/12/23/lead_climbing_course

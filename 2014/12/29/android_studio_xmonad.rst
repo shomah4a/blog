@@ -33,7 +33,7 @@ Android Studio を動かそうとした話
 - Intellij IDEA は Java っていうか JVM 上で動くらしい
 
 ということはなんとなく知ってたので、いつものように xmonad と Java 系 GUI の相性が悪いやつだと思ってた。
-でもsさすがにそれでは困るのでとりあえず調べてみた。
+でもさすがにそれでは困るのでとりあえず調べてみた。
 
 https://code.google.com/p/android/issues/detail?id=56538
 

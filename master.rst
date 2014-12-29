@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2014/12/29/android_studio_xmonad
    2014/11/04/perfect_python_ebook
    2014/11/03/modern_emacs
    2013/12/30/retrospective_2013

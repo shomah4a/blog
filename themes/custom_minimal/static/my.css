@@ -3,11 +3,18 @@
 
 div.section_head
 {
-  margin-bottom: 1em;
+    margin-bottom: 1em;
 }
 
 div.timestamp_layout
 {
-  float: left;
-  margin-right: 2em;
+    float: left;
+    margin-right: 2em;
+}
+
+div.line-block
+{
+    margin-left: 2em;
+    background-color: #efefef;
+    padding: 1em;
 }
